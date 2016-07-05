@@ -1,0 +1,32 @@
+{
+  "name": "eslint-plugin-no-regex-dot",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vitaliy Filippov",
+    "email": "vitalif@yourcmc.ru"
+  },
+  "description": "Disallow . in regular expressions in favor of [\\s\\S]",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "no-regex-dot.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalif/eslint-plugin-no-regex-dot.git"
+  },
+  "homepage": "https://github.com/vitalif/eslint-plugin-no-regex-dot",
+  "bugs": {
+    "url": "https://github.com/vitalif/eslint-plugin-no-regex-dot/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin"
+  ],
+  "license": "MIT"
+}
